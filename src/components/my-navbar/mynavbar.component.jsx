@@ -4,7 +4,7 @@ import Nav from 'react-bootstrap/Nav'
 import Logo from '../../assets/icons/logow.webp'
 import './mynavbar.style.css'
 
-const myNavbar = () => {
+const MyNavbar = () => {
     return (
         <>
             <Navbar collapseOnSelect fixed="top" expand="md"  variant="dark" className="animate-navbar nav-theme justify-content-between">
@@ -27,4 +27,4 @@ const myNavbar = () => {
     )
 }
 
-export default myNavbar;
+export default MyNavbar;
