@@ -13,6 +13,7 @@ import TitleMessage from "./components/title-message/titlemessage.component";
 import About from "./pages/about/about.component";
 import Skills from "./pages/skills/skills.component";
 import Experience from "./pages/experience/experience.component";
+import ProjectsTimeline from "./components/projects-timeline/projects-timeline.component";
 
 
 
@@ -56,6 +57,16 @@ const App = () => {
             <Experience />
           </Fade>
         </Container>
+      </div>
+
+      {/* Projects */}
+      <div>
+          <Container className="container-box rounded">
+            <Slide bottom duration={500}>
+              <hr />
+              <ProjectsTimeline />
+            </Slide>
+          </Container>
       </div>
 
     </div>
