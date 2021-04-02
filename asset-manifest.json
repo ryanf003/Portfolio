@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.fb9f6af5.chunk.css",
-    "main.js": "/Portfolio/static/js/main.755ae1ba.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.755ae1ba.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.0ed547ba.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.0ed547ba.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.c8eaf835.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.c8eaf835.js.map",
     "static/js/2.79ace27c.chunk.js": "/Portfolio/static/js/2.79ace27c.chunk.js",
@@ -20,7 +20,6 @@
     "static/media/heroku.73be03b3.svg": "/Portfolio/static/media/heroku.73be03b3.svg",
     "static/media/html-5.821ba738.svg": "/Portfolio/static/media/html-5.821ba738.svg",
     "static/media/javascript.ba40d6a9.svg": "/Portfolio/static/media/javascript.ba40d6a9.svg",
-    "static/media/logow.fa9abebb.webp": "/Portfolio/static/media/logow.fa9abebb.webp",
     "static/media/nodejs.52cbf9a8.svg": "/Portfolio/static/media/nodejs.52cbf9a8.svg",
     "static/media/nucampsite.11e5361d.png": "/Portfolio/static/media/nucampsite.11e5361d.png",
     "static/media/pj-photo-portfolio.9d99c677.png": "/Portfolio/static/media/pj-photo-portfolio.9d99c677.png",
@@ -41,6 +40,6 @@
     "static/js/runtime-main.c8eaf835.js",
     "static/js/2.79ace27c.chunk.js",
     "static/css/main.fb9f6af5.chunk.css",
-    "static/js/main.755ae1ba.chunk.js"
+    "static/js/main.0ed547ba.chunk.js"
   ]
 }
