@@ -1,7 +1,6 @@
 import React from 'react'
 import Navbar from 'react-bootstrap/Navbar'
 import Nav from 'react-bootstrap/Nav'
-import Logo from '../../assets/icons/logow.webp'
 import './mynavbar.style.css'
 
 const MyNavbar = () => {
@@ -9,7 +8,6 @@ const MyNavbar = () => {
         <>
             <Navbar collapseOnSelect fixed="top" expand="md"  variant="dark" className="animate-navbar nav-theme justify-content-between">
                 <Navbar.Brand href="#home">
-                    <img className="logo" src={Logo} alt='My Portfolio Logo' />
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                 <Navbar.Collapse id="responsive-navbar-nav">

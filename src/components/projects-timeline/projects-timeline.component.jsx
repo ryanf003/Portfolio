@@ -112,8 +112,8 @@ const ProjectsTimeline = () => {
                         </div>
                     </ImageEvent>
 
-{/* Project: Nucamp Site */}
-<ImageEvent
+                    {/* Project: Nucamp Site */}
+                    <ImageEvent
                         date="03/19/2021"
                         className="text-center"
                         text="NuCampSite"
@@ -195,7 +195,7 @@ const ProjectsTimeline = () => {
                             </div>
                             <div className="d-flex justify-content-between flex-nowrap text-center">
                                 <UrlButton
-                                href="https://github.com/ryanf003/PJFdezPhotoPortfolio"
+                                href="https://github.com/ryanf003/Nucamp_react"
                                 target="_blank"
                                 >
                                 SOURCE CODE
