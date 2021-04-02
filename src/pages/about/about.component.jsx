@@ -25,7 +25,13 @@ const about = () => {
                         <Col xs={12} md={6}>
                             <Row className="align-items-start p-2 my-details rounded">
                                 {/* description */}
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                Hello! I am <strong>&nbsp;Ryan Fernandez</strong>
+                                <br />A passionate programmer, born in Spain and brought up in California. I am a Full Stack Web Developer with React.js, Redux, and Node.js as my tech stack.
+                                <br />
+                                In 2019, I graduated from Santa Clara University with a Bachelors of Science in Computer Science and Engineering.
+                                <br />
+                                I love learning about new technologies, what problems are they solving and how can I use them to build better and scalable products.
+                                <br /> <br />
                             </Row>
                             <Row>
                                 {/* buttons */}
