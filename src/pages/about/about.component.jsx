@@ -32,6 +32,8 @@ const about = () => {
                                 <br />
                                 I love learning about new technologies, what problems are they solving and how can I use them to build better and scalable products.
                                 <br /> <br />
+                               <strong>This is a test</strong>
+                                <br /> <br />
                             </Row>
                             <Row>
                                 {/* buttons */}
