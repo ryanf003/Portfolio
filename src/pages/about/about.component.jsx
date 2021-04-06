@@ -18,7 +18,7 @@ const about = () => {
                         {/* Profile Pic */}
                         <Col xs={12} md={6}>
                             <Row className="justify-content-center mb-2 mr-2">
-                                <Image className="profile justify-content-end d-block w-100" alt="profile" src={HomePFP} thumbnail />
+                                <Image className="profile justify-content-end d-block" alt="profile" src={HomePFP} thumbnail fluid />
                             </Row>
                         </Col>
                         {/* About me description */}
@@ -32,7 +32,7 @@ const about = () => {
                                 <br />
                                 I love learning about new technologies, what problems are they solving and how can I use them to build better and scalable products.
                                 <br /> <br />
-                               <strong>This is a test</strong>
+                               <strong>Max width 60%</strong>
                                 <br /> <br />
                             </Row>
                             <Row>
