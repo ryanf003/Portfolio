@@ -19,7 +19,7 @@ const Experience = () => {
             <Jumbotron className="jumbo-style">
                 <Container>
                     <Tilt options={{ max: 25 }}>
-                        <Card>
+                        <Card >
                             <Card.Header as="h5" className="d-flex justify-content-center flex-wrap">
                                 <Card.Img variant="top" className="image-resize" src={L_POWER} alt="Power Integrations Logo" />
                             </Card.Header>
