@@ -1,6 +1,8 @@
 import React from 'react'
 import Container from "react-bootstrap/Container"
 import Jumbotron from "react-bootstrap/Jumbotron"
+import Col from 'react-bootstrap/Col'
+import Row from 'react-bootstrap/Row'
 import Tilt from "react-tilt"
 import Card from "react-bootstrap/Card"
 import "./experience.styles.css"
@@ -12,6 +14,8 @@ const Experience = () => {
     return (
         <div id="experience">
             <h1 className="pt-3 text-center font-details-b pb-3">EXPERIENCE</h1>
+            <Row className="justify-content-center">
+            <Col md={8}>
             <Jumbotron className="jumbo-style">
                 <Container>
                     <Tilt options={{ max: 25 }}>
@@ -42,6 +46,8 @@ const Experience = () => {
                     </Tilt>
                 </Container>
             </Jumbotron>
+            </Col>
+            </Row>
         </div>
     )
 }

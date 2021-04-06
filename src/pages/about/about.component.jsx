@@ -18,7 +18,7 @@ const about = () => {
                         {/* Profile Pic */}
                         <Col xs={12} md={6}>
                             <Row className="justify-content-center mb-2 mr-2">
-                                <Image className="profile justify-content-end d-block w-100" alt="profile" src={HomePFP} thumbnail fluid/>
+                                <Image className="profile justify-content-end d-block w-100" alt="profile" src={HomePFP} thumbnail />
                             </Row>
                         </Col>
                         {/* About me description */}
